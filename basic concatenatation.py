@@ -12,7 +12,7 @@ Description: Write a Python program that performs the following tasks:
     Print the concatenated string.
 
     From the concatenated string:
-        Access and print a sub-string that consists of the last name only. Use string slicing to extract the sub-string.
+        Access and print a sub-string that consists of the first name only. Use string slicing to extract the sub-string.
 
 '''
 first_name = input("Enter your first name")
